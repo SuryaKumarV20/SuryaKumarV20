@@ -86,7 +86,7 @@ Acknowledge any external libraries, tutorials, or resources used in the project.
 For further questions or inquiries, please contact:
 
 Your Name: [suryakumarv20@gmail.com]
-Project Repository: [Link to GitHub Repository]
+Project Repository: [https://github.com/SuryaKumarV20]
 
 TASK------2:
 
@@ -175,7 +175,7 @@ Acknowledge the use of the MNIST dataset and the TensorFlow library for educatio
 For further questions or inquiries, please contact:
 
 Your Name: [suryakumarv20@gmail.com]
-Project Repository: [Link to GitHub Repository]
+Project Repository: [https://github.com/SuryaKumarV20]
 
 
 
