@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff">Surya Kumar V</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00bfff">Surya Kumar Vankudavath</span></h1>
 <h3 align="center">💻 Python Developer • MERN Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
