@@ -7,9 +7,15 @@
 <h3 align="center">💻 Python Developer • Full Stack Developer and MERN Techs • AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:suryakumarv20@gmail.com"><img src="https://img.shields.io/badge/Email-suryakumarv20%40gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/suryakumarv20"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://suryakumarv20.github.io/PortFolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox" /></a>
+  <a href="mailto:suryakumarv20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-suryakumarv20%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/suryakumarv20">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://suryakumarv20.github.io/PortFolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox" />
+  </a>
 </p>
 
 ---
@@ -49,13 +55,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuryaKumarV20&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/SuryaKumarV20/SuryaKumarV20/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
