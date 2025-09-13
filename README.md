@@ -1,6 +1,10 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff">Surya Kumar Vankudavath!</span></h1>
-<h3 align="center">💻 Python Developer • MERN Stack Developer • AI/ML Enthusiast</h3>
+<!-- Animated Name Header -->
+<h1 align="center">
+  <marquee behavior="alternate" direction="right" scrollamount="8" width="80%">
+    👋 Hi, I'm <span style="color:#00bfff">Surya Kumar Vankudavath! </span>
+  </marquee>
+</h1>
+<h3 align="center">💻 Python Developer • Full Stack Developer and MERN Techs • AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:suryakumarv20@gmail.com"><img src="https://img.shields.io/badge/Email-suryakumarv20%40gmail.com-red?style=flat&logo=gmail" /></a>
@@ -10,7 +14,7 @@
 
 ---
 
-## 🛠 Languages, Frameworks, and Tools
+## 🛠 Languages, Frameworks, and Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,flask,django,fastapi,html,css,mysql,postgresql,aws,docker,git,github,postman" />
 </p>
@@ -23,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 <p align="center">
   <a href="https://github.com/SuryaKumarV20">
     <img src="https://github-readme-stats.vercel.app/api?username=SuryaKumarV20&show_icons=true&theme=radical&hide_border=false&border_radius=15" width="48%"/>
@@ -45,6 +49,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuryaKumarV20&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/SuryaKumarV20/SuryaKumarV20/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
