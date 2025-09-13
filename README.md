@@ -1,5 +1,5 @@
 <!-- Animated Name Header -->
-<h1 align="center" style="font-size:100px; color:#1E90FF;">
+<h1 align="center" style="font-size🕖0px; color:#1E90FF;">
   <marquee behavior="alternate" direction="right" scrollamount="6" width="80%">
     👋 Hi There! — I'm Surya kumar Vankudavath!
   </marquee>
