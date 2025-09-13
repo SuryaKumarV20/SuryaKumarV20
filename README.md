@@ -1,7 +1,7 @@
 <!-- Animated Name Header -->
 <h1 align="center" style="font-size:70px; color:#1E90FF;">
   <marquee behavior="alternate" direction="right" scrollamount="6" width="80%">
-    👋 Hi There! — Surya Kumar Vankudavath
+    👋 Hi There! — I'm Surya kumar Vankudavath!
   </marquee>
 </h1>
 <h3 align="center">💻 Software Developer • Full Stack Developer  & MERN Techno's • AI/ML Enthusiast</h3>
