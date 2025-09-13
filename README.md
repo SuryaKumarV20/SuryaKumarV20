@@ -1,10 +1,10 @@
 <!-- Animated Name Header -->
-<h1 align="center">
-  <marquee behavior="alternate" direction="right" scrollamount="8" width="80%">
-    👋 Hi, I'm <span style="color:#00bfff">Surya Kumar Vankudavath! </span>
+<h1 align="center" style="font-size:60px; color:#80dfff;">
+  <marquee behavior="alternate" direction="right" scrollamount="6" width="80%">
+    Surya Kumar V
   </marquee>
 </h1>
-<h3 align="center">💻 Python Developer • Full Stack Developer and MERN Techs • AI/ML Enthusiast</h3>
+<h3 align="center">💻 Python Developer • MERN Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:suryakumarv20@gmail.com">
