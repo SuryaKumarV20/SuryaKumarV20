@@ -1,5 +1,5 @@
 <!-- Animated Name Header -->
-<h1 align="center" style="font-size:60px; color:#80dfff;">
+<h1 align="center" style="font-size:70px; color:#1E90FF;">
   <marquee behavior="alternate" direction="right" scrollamount="6" width="80%">
     👋 Hi There! — Surya Kumar V
   </marquee>
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:suryakumarv20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suryakumarv20%40gmail.com-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/suryakumarv20">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
@@ -49,8 +49,11 @@
   </a>
 </p>
 
+---
+
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaKumarV20&theme=react-dark&hide_border=false&area=true&radius=10" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SuryaKumarV20&theme=radical&margin-w=10&margin-h=10&column=7" />
 </p>
 
 <p align="center">
